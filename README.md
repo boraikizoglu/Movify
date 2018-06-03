@@ -27,10 +27,18 @@ movie taste.
 - A map where you can see who is currently watching what
 - Recommendation of users who have similar tastes with the user
 
+**Some commits**
+
 <p align="center">
-<img align="center" src="https://github.com/boraikizoglu/Movify/blob/master/demo/commits1.png" width="300" height="600">
+<img align="center" src="https://github.com/boraikizoglu/Movify/blob/master/demo/commits2.png" width="900" height="450">
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/boraikizoglu/Movify/blob/master/demo/commits2.png" width="300" height="600">
+<img align="center" src="https://github.com/boraikizoglu/Movify/blob/master/demo/commits1.png" width="900" height="450">
+</p>
+
+**Pull requests**
+
+<p align="center">
+<img align="center" src="https://github.com/boraikizoglu/Movify/blob/master/demo/pull_requests.png" width="900" height="450">
 </p>
